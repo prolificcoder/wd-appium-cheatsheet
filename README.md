@@ -37,6 +37,6 @@ You use elementByAccessibilityId
 You use elementByAccessibilityId
 
 ```javascript
-  .elementById('id)
-  .getAttribute('name')
+  .elementById('id')
+  .getAttribute('name') //this get the content-desc of that element
 ```
