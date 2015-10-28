@@ -31,3 +31,12 @@ You use elementByAccessibilityId
 ```javascript
   .elementsByAccessibilityId('row').first()
 ```
+
+### To get the content-description out of an element
+
+You use elementByAccessibilityId
+
+```javascript
+  .elementById('id)
+  .getAttribute('name')
+```
